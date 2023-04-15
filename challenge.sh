@@ -15,7 +15,8 @@ function show() {
         fi
         echo '---------------'
         printf "\n\n"
-}                                                                                                                                   function do_stuff() {
+}      
+function do_stuff() {                                                                                                                             function do_stuff() {
         echo hello solver my name is whoamiPwns. Here your terminal utility chart...
         echo '------------------'
         if [[ $1 = "" ]]; then
