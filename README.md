@@ -9,3 +9,6 @@ Are you ??
 # About the challenge
 + You guys will learn some thing in Linux file inheritance
 + You guys will also learn about how a process is being handled by Linux
+
+### end goal of the challenge
+Exploit the vulnerability of you can.
