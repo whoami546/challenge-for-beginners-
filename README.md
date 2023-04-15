@@ -1,6 +1,6 @@
 # challenge-for-beginners-
-A good challenge for beginners who are interested in learning Linux 
-
+A good challenge for beginners who are interested in learning Linux.
+You can dm me the screenshot to prove that you pwned this challenge.
 ## Description
 WhoamiPwns have used his environments in a shitty way.
 Can you break through its security?
