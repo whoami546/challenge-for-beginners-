@@ -11,4 +11,4 @@ Are you ??
 + You guys will also learn about how a process is being handled by Linux
 
 ### end goal of the challenge
-Exploit the vulnerability of you can.
+Exploit the vulnerability if you can.
