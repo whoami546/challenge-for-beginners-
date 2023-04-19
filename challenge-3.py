@@ -17,8 +17,10 @@ if pattern:
     print(file.name + 'has been created')
 
     again = open(file.name, mode="r")
-    eval(again.read())
-    again.close()
+    try:
+        eval(again.read())
+    except:
+        print("my ass hurts!!")
 
 if not pattern:
     print("So you want to give a shot to my trully badass attitude ???!")
